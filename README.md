@@ -1,4 +1,8 @@
-# todolist
+# TodoList
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/93844556/192630210-0fad3a98-c075-41fa-a4a6-8fd82abcd6e5.png" />
+</p>
 
 ## Project setup
 ```
